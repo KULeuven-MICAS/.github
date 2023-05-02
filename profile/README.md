@@ -22,7 +22,7 @@
 [V. Jain, S. Giraldo, J. D. Roose, B. Boons, L. Mei and M. Verhelst, "TinyVers: A 0.8-17 TOPS/W, 1.7 μW-20 mW, Tiny Versatile System-on-chip with State-Retentive eMRAM for Machine Learning Inference at the Extreme Edge," 2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), Honolulu, HI, USA, 2022, pp. 20-21, doi: 10.1109/VLSITechnologyandCir46769.2022.9830409.
 ](https://ieeexplore.ieee.org/document/9830409)
 
-### DIANA [Repo](https://github.com/KULeuven-MICAS/tinyvers)
+### DIANA [Repo: To appear](...)
 
 <p><img src="https://user-images.githubusercontent.com/84473288/235630431-4c3c79f3-3979-4e70-b451-ff7e452d894c.png"
  style="float: left; margin-right: 14px; width:20%"  /> </p>
