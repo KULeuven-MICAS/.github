@@ -3,12 +3,12 @@
 
 ## Artificial Intelligence System on Chip (SoCs)
 
-# TinyVers
-# DPU
+### TinyVers
+### DPU
 
 ## Fast DNN Accelerator Design Space Exploration Frameworks
 
-# ZigZag
-# Stream
-# DeFiNes
+### ZigZag
+### Stream
+### DeFiNes
 
