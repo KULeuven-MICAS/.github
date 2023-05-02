@@ -34,7 +34,7 @@
 
 ### DPU
 <p><img src="https://user-images.githubusercontent.com/84473288/235633846-b25ab195-c78e-42fb-8d45-f81c61ed774d.JPG"
- style="float: left; margin-right: 12px; width:20.5%" /> </p>
+ style="float: left; margin-right: 12px; width:20%" /> </p>
 
 </br></br> 
 [N. Shah, L. I. G. Olascoaga, S. Zhao, W. Meert and M. Verhelst, "DPU: DAG Processing Unit for Irregular Graphs With Precision-Scalable Posit Arithmetic in 28 nm," in IEEE Journal of Solid-State Circuits, vol. 57, no. 8, pp. 2586-2596, Aug. 2022, doi: 10.1109/JSSC.2021.3134897.](https://ieeexplore.ieee.org/document/9663412)
