@@ -9,10 +9,12 @@
 ### DeFiNes [Repo](https://github.com/KULeuven-MICAS/defines)
 
 </br>
+
 ## Compilers
 ### HTCM [Repo](https://github.com/KULeuven-MICAS/htvm)
 
 </br>
+
 ## Artificial Intelligence System on Chips (SoCs)
 
 ### TinyVers [Repo](https://github.com/KULeuven-MICAS/tinyvers)
