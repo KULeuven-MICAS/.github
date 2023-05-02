@@ -8,10 +8,10 @@
 ### Stream [Repo](https://github.com/KULeuven-MICAS/stream)
 ### DeFiNes [Repo](https://github.com/KULeuven-MICAS/defines)
 
-## Artificial Intelligence System on Chips (SoCs)
-
 ## Compilers
 ### HTCM [Repo](https://github.com/KULeuven-MICAS/htvm)
+
+## Artificial Intelligence System on Chips (SoCs)
 
 ### TinyVers [Repo](https://github.com/KULeuven-MICAS/tinyvers)
 <p><img src="https://user-images.githubusercontent.com/84473288/235628502-2c759d2c-3881-4beb-ab17-9a6b078547f9.png"
