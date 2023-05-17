@@ -4,9 +4,9 @@
 ## Fast DNN Accelerator Design Space Exploration Frameworks
 
 
-### ZigZag [Repo](https://github.com/KULeuven-MICAS/zigzag) 
+### ZigZag [Repo](https://github.com/KULeuven-MICAS/zigzag) [Documentation](https://kuleuven-micas.github.io/zigzag/) [Tutorial](https://www.youtube.com/watch?v=VgUuG4QaSQQ&list=PLUi74Rw4uFDIuK_6FCF9Bv7SMJlHfG4l3)
 ZigZag targets rapid DSE for DNN accelerator platforms supporting an broad set of hardware architectures and workload scheduling scenarios beyond other existing frameworks.
-### Stream [Repo](https://github.com/KULeuven-MICAS/stream)
+### Stream [Repo](https://github.com/KULeuven-MICAS/stream) [Tutorial](https://www.youtube.com/watch?v=9LVIVy1_ukw&list=PLUi74Rw4uFDIuK_6FCF9Bv7SMJlHfG4l3&index=6)
 Stream is an extension of ZigZag capable of modeling multi-core DNN acceleration employing fine-grained layer-fused processing.
 ### DeFiNes [Repo](https://github.com/KULeuven-MICAS/defines)
 DeFiNes extends ZigZag to enable the DSE of cross-layer depth-first scheduling (a.k.a. layer fusion, or cascaded execution)
