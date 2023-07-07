@@ -13,7 +13,7 @@ DeFiNes extends ZigZag to enable the DSE of cross-layer depth-first scheduling (
 </br>
 
 ## Compilers
-### HTCM [Repo](https://github.com/KULeuven-MICAS/htvm)
+### HTVM [Repo](https://github.com/KULeuven-MICAS/htvm)
 
 </br>
 
