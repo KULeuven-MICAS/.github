@@ -1,5 +1,8 @@
 ## 
-![](https://user-images.githubusercontent.com/84473288/235626814-7550aa13-baff-4ddd-bcb0-69a6f0a46f88.svg)
+![](https://user-images.githubusercontent.com/84473288/235626814-7550aa13-baff-4ddd-bcb0-69a6f0a46f88.svg) 
+
+This is the GitHub organization for the MICAS research group at KU Leuven. Here you can find open-source projects made by us and our collaborators.
+
 
 ## Fast DNN Accelerator Design Space Exploration Frameworks
 
@@ -12,9 +15,9 @@ Stream is an extension of ZigZag capable of modeling multi-core DNN acceleration
 DeFiNes extends ZigZag to enable the DSE of cross-layer depth-first scheduling (a.k.a. layer fusion, or cascaded execution)
 </br>
 
-## Compilers
+## Accelerator-aware Neural Network Deployment
 ### HTVM [Repo](https://github.com/KULeuven-MICAS/htvm)
-
+HTVM is a neural network compiler based on [Dory](https://github.com/pulp-platform/dory) and [TVM](https://github.com/apache/tvm) that allows for efficient neural network deployment on heterogenous TinyML platforms with scratchpad-memory accelerators.
 </br>
 
 ## Artificial Intelligence System on Chips (SoCs)
