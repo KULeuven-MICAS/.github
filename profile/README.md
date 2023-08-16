@@ -13,6 +13,8 @@ ZigZag targets rapid DSE for DNN accelerator platforms supporting an broad set o
 Stream is an extension of ZigZag capable of modeling multi-core DNN acceleration employing fine-grained layer-fused processing.
 ### DeFiNes [Repo](https://github.com/KULeuven-MICAS/defines)
 DeFiNes extends ZigZag to enable the DSE of cross-layer depth-first scheduling (a.k.a. layer fusion, or cascaded execution)
+### ZigZag-IMC [Repo](https://github.com/KULeuven-MICAS/zigzag-imc)
+ZigZag-IMC is an extension of ZigZag capable of modeling single-core Analog/Digital In-Memory Computing acceleration and estimating corresponding energy/delay/area performance.
 </br>
 
 ## Accelerator-aware Neural Network Deployment
