@@ -3,6 +3,13 @@
 
 This is the GitHub organization for the MICAS research group at KU Leuven. Here you can find open-source projects made by us and our collaborators.
 
+## SNAX Framework
+
+Snax is an end-to-end, open-source multi-accelerator cluster design framework. It consists of the snax-mlir compile toolchain and the snax cluster hardware framework.
+
+### snax-mlir [Repo](https://github.com/kuleuven-micas/snax-mlir)
+
+### snax cluster [Repo](https://github.com/kuleuven-micas/snax_cluster)
 
 ## Fast DNN Accelerator Design Space Exploration Frameworks
 
