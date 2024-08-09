@@ -7,18 +7,20 @@ This is the GitHub organization for the MICAS research group at KU Leuven. Here 
 
 Snax is an end-to-end, open-source multi-accelerator cluster design framework. It consists of the snax-mlir compile toolchain and the snax cluster hardware framework.
 
-### snax-mlir [Repo](https://github.com/kuleuven-micas/snax-mlir)
+### SNAX-MLIR [Repo](https://github.com/kuleuven-micas/snax-mlir)
 
-### snax cluster [Repo](https://github.com/kuleuven-micas/snax_cluster)
+### SNAX Cluster [Repo](https://github.com/kuleuven-micas/snax_cluster)
 
 ## Fast DNN Accelerator Design Space Exploration Frameworks
 
 
-### ZigZag [Repo](https://github.com/KULeuven-MICAS/zigzag) [Documentation](https://kuleuven-micas.github.io/zigzag/) [Tutorial](https://www.youtube.com/watch?v=VgUuG4QaSQQ&list=PLUi74Rw4uFDIuK_6FCF9Bv7SMJlHfG4l3)
+### ZigZag [Repo](https://github.com/KULeuven-MICAS/zigzag) | [Documentation](https://kuleuven-micas.github.io/zigzag/) | [Tutorial](https://www.youtube.com/watch?v=VgUuG4QaSQQ&list=PLUi74Rw4uFDIuK_6FCF9Bv7SMJlHfG4l3)
 ZigZag targets rapid DSE for DNN accelerator platforms supporting an broad set of hardware architectures and workload scheduling scenarios beyond other existing frameworks.<br>
 The latest version of ZigZag includes support for modeling of analog and digital in-memory computing accelerators and estimating both peak/workload performance at the macro and system level.
-### Stream [Repo](https://github.com/KULeuven-MICAS/stream) [Documentation](https://kuleuven-micas.github.io/stream/) [Tutorial](https://www.youtube.com/watch?v=9LVIVy1_ukw&list=PLUi74Rw4uFDIuK_6FCF9Bv7SMJlHfG4l3&index=6)
+### Stream [Repo](https://github.com/KULeuven-MICAS/stream) | [Documentation](https://kuleuven-micas.github.io/stream/) | [Tutorial](https://www.youtube.com/watch?v=9LVIVy1_ukw&list=PLUi74Rw4uFDIuK_6FCF9Bv7SMJlHfG4l3&index=6)
 Stream is an extension of ZigZag capable of modeling multi-core DNN acceleration employing fine-grained layer-fused processing.
+### ZigZag-LLM [Repo](https://github.com/KULeuven-MICAS/zigzag-llm)
+ZigZag-LLM is a framework to rapidly model Large Language Models on dedicated, single-core accelerators and facilitates early identification of energy bottlenecks within the hardware architecture.
 ### DeFiNes [Repo](https://github.com/KULeuven-MICAS/defines)
 DeFiNes extends ZigZag to enable the DSE of cross-layer depth-first scheduling (a.k.a. layer fusion, or cascaded execution)
 </br>
