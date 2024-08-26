@@ -11,6 +11,8 @@ Snax is an end-to-end, open-source multi-accelerator cluster design framework. I
 
 ### SNAX Cluster [Repo](https://github.com/kuleuven-micas/snax_cluster)
 
+### HeMAiA [Repo](https://github.com/kuleuven-micas/HeMAiA)
+
 ## Fast DNN Accelerator Design Space Exploration Frameworks
 
 
