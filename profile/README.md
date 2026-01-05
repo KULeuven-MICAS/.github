@@ -66,6 +66,9 @@ Floating point units (add, mul, FMA) for transprecision computing in arbitrary F
 
 [DPU-v2: Energy-efficient execution of irregular directed acyclic graphs](https://ieeexplore.ieee.org/document/9923858) (MICRO'22)
 
+### AIA [Repo](https://github.com/KULeuven-MICAS/aia_chip)
+[AIA: A Customized Multi-Core RISC-V SoC for Discrete Sampling Workloads in 16 nm](https://ieeexplore.ieee.org/abstract/document/10980265) (JSSC'25)
+
 </br></br>
 
 
