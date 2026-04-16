@@ -36,6 +36,9 @@ HTVM is a neural network compiler based on [Dory](https://github.com/pulp-platfo
 ### [Chisel-Float](https://github.com/KULeuven-MICAS/chisel-float)
 Floating point units (add, mul, FMA) for transprecision computing in arbitrary FP formats, wrapped and tested in Chisel.
 
+### [Ternary-LUT-DSE](https://github.com/KULeuven-MICAS/ternary-lut-dse/tree/main)
+Chisel hardware generator for ternary Lookup-Table based hardware architectures.
+
 ## Artificial Intelligence System on Chips (SoCs)
 
 ### TinyVers [Repo](https://github.com/KULeuven-MICAS/tinyvers)
